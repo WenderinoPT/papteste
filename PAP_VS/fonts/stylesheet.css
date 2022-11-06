@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'mohr_altblack';
+    src: url('mohralt-black-webfont.woff2') format('woff2'),
+         url('mohralt-black-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
